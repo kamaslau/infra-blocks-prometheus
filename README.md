@@ -15,6 +15,9 @@
 启动服务
 
 ```bash
+# Optional: change the host ports (defaults 3000 / 9090 / 9100)
+cp .env.example .env
+
 # Initiate config file
 cp -f prometheus.sample.yml prometheus.yml
 sudo nano prometheus.yml
