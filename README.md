@@ -1,4 +1,4 @@
-# trial-prometheus
+# infra-blocks-prometheus
 
 ## Service URL and default user/password
 
