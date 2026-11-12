@@ -1,5 +1,8 @@
 # infra-blocks-prometheus
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+![Repository size](https://img.shields.io/github/repo-size/kamaslau/infra-blocks-prometheus?color=56BEB8)
+
 ## Service URL and default user/password
 
 - [Grafana](https://grafana.com/docs/grafana/latest/setup-grafana/installation/docker/): http://localhost:3000 admin/admin
